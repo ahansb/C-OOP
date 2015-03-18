@@ -1,0 +1,6 @@
+c:\users\andro\documents\visual studio 2013\Projects\Defining-Classes-Part-One\Mobile-Phone\bin\Debug\Mobile-Phone.exe.config
+C:\Users\andro\documents\visual studio 2013\Projects\Defining-Classes-Part-One\Mobile-Phone\obj\Debug\Mobile-Phone.csprojResolveAssemblyReference.cache
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Defining-Classes-Part-One\Mobile-Phone\bin\Debug\Mobile-Phone.exe
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Defining-Classes-Part-One\Mobile-Phone\bin\Debug\Mobile-Phone.pdb
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Defining-Classes-Part-One\Mobile-Phone\obj\Debug\Mobile-Phone.exe
+C:\Users\andro\Documents\Visual Studio 2013\Projects\Defining-Classes-Part-One\Mobile-Phone\obj\Debug\Mobile-Phone.pdb
